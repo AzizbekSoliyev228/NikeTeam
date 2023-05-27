@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'RR';
+    src: url('../fonts/Roboto-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'RB';
+    src: url('../fonts/Roboto-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'RBlack';
+    src: url('../fonts/Roboto-Black.ttf');
+    font-weight: 900;
+}
